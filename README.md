@@ -28,15 +28,7 @@ npm run dev
 
 실행 이후의 Host의 80번 포트 혹은 443번 포트와 본 서버의 8080 포트와 포트 포워딩을 해주어야 합니다.
 
-## 실행 화면
 
-![image](https://user-images.githubusercontent.com/16822641/45494171-78df7080-b7ab-11e8-80b9-2e42509b099a.png)
-
-![image](https://user-images.githubusercontent.com/16822641/45494216-8f85c780-b7ab-11e8-9736-2872e7dc4ddf.png)
-
-![image](https://user-images.githubusercontent.com/16822641/45494336-c0fe9300-b7ab-11e8-9f47-59b8eaa38d64.png)
-
-## 데모
 
 
 
